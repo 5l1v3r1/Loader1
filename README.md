@@ -1,3 +1,5 @@
+# If you are looking for a secure loader with amazing support, head to [Vanguard Loaders](https://vanguardloaders.com) and use promo code "THAISEN" for 10% off your first invoice!
+
 # This project is out of date and no longer supported
 
 Please check out [Version 2.0 of my loader here](https://github.com/ThaisenPM/Cheat-Loader-CSGO-2.0)
